@@ -69,7 +69,6 @@ class PdfFormat:
 
     def read_text_from_pdf(self, pdf_file: str):
         texts: dict[str, str] = {}
-        print(pdf_file)
         pdf_imgs = read_pdf(pdf_file)
         for area_id, detection_area in self.areas.items():
             name = detection_area.name

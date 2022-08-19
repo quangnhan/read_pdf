@@ -162,11 +162,7 @@ def find_line_contain(text_lines: list[str], sub_texts: list[str]):
 
 
 def read_pdf(pdf_file: str, dpi: int = 400):
-    try:
-        imgs = convert_from_path(pdf_file, dpi)
-    except Exception as ex:
-        print(ex)
-        return []
+    imgs = convert_from_path(pdf_file, dpi, poppler_path='.\poppler-22.04.0/Library/bin')
     return [np.array(img, dtype=np.uint8) for img in imgs]
 
 

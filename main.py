@@ -24,11 +24,11 @@ class PdfParser:
     def get_format_file(self, file_name: str):
         pdf_format = ''
         if 'Khai Minh' in file_name:
-            pdf_format = f'D:\Work\Read pdf file\KHAI MINH GLOBAL.json'
+            pdf_format = f'.\KHAI MINH GLOBAL.json'
         return pdf_format
 
 
 parser = PdfParser()
-pdf_file = 'D:\Work\Read pdf file\Khai Minh.pdf'
+pdf_file = '.\Khai Minh.pdf'
 data = parser.read_pdf(pdf_file)
 print(data)
