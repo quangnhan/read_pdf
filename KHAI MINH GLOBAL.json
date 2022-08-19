@@ -1,0 +1,148 @@
+{
+    "file_path": "D:/Work/Read pdf file/Khai Minh.pdf",
+    "areas": {
+        "1": {
+            "_id": 1,
+            "name": "To_Consignee",
+            "page_index": 0,
+            "area": [
+                805,
+                976,
+                1301,
+                85
+            ]
+        },
+        "2": {
+            "_id": 2,
+            "name": "Estimated_Time_Arrival",
+            "page_index": 0,
+            "area": [
+                2016,
+                1349,
+                619,
+                85
+            ]
+        },
+        "3": {
+            "_id": 3,
+            "name": "Vessel",
+            "page_index": 0,
+            "area": [
+                591,
+                1471,
+                1064,
+                76
+            ]
+        },
+        "4": {
+            "_id": 4,
+            "name": "Voyage",
+            "page_index": 0,
+            "area": [
+                589,
+                1569,
+                1079,
+                86
+            ]
+        },
+        "5": {
+            "_id": 5,
+            "name": "Port_Of_Loading",
+            "page_index": 0,
+            "area": [
+                600,
+                1700,
+                1080,
+                85
+            ]
+        },
+        "6": {
+            "_id": 6,
+            "name": "To_Address",
+            "page_index": 0,
+            "area": [
+                644,
+                1062,
+                2329,
+                149
+            ]
+        },
+        "7": {
+            "_id": 7,
+            "name": "From_Shipper",
+            "page_index": 0,
+            "area": [
+                584,
+                238,
+                1281,
+                109
+            ]
+        },
+        "8": {
+            "_id": 8,
+            "name": "From_Address",
+            "page_index": 0,
+            "area": [
+                575,
+                349,
+                1845,
+                128
+            ]
+        },
+        "9": {
+            "_id": 9,
+            "name": "From_Phone",
+            "page_index": 0,
+            "area": [
+                676,
+                487,
+                492,
+                66
+            ]
+        },
+        "10": {
+            "_id": 10,
+            "name": "Port_Of_Discharge",
+            "page_index": 0,
+            "area": [
+                2283,
+                1452,
+                755,
+                113
+            ]
+        },
+        "11": {
+            "_id": 11,
+            "name": "Final_Destination",
+            "page_index": 0,
+            "area": [
+                2282,
+                1577,
+                788,
+                85
+            ]
+        },
+        "12": {
+            "_id": 12,
+            "name": "Job_No",
+            "page_index": 0,
+            "area": [
+                482,
+                718,
+                586,
+                91
+            ]
+        },
+        "13": {
+            "_id": 13,
+            "name": "To_Phone",
+            "page_index": 0,
+            "area": [
+                936,
+                1230,
+                677,
+                74
+            ]
+        }
+    }
+}

@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/57535731/pdfinfonotinstallederror-unable-to-get-page-count-is-poppler-installed-and-in
